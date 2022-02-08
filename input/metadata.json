@@ -1,0 +1,62 @@
+{
+    "image": "https://www.arweave.net/W8daq3RctpUEiMzhr6pphepC1Z_dJy0xUPmQFrn6biY?ext=png",
+    "name": "SOLGods 1821",
+    "symbol": "SOLGods",
+    "collection": {
+        "name": "SOLGods",
+        "family": "SOLGods"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Code",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        },
+        {
+            "trait_type": "Character",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Torso",
+            "value": "Police"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Hannibal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        }
+    ],
+    "seller_fee_basis_points": 500,
+    "properties": {
+        "creators": [
+            {
+                "address": "Em4DcHQwUxhHfEWhz8aZABXU6nUADTGFBPKHoBhKZr9h",
+                "share": 92
+            },
+            {
+                "address": "5yqPJhLcoqDcVLTQjWq5MBGh18R6jv7pVwtacLW32b6J",
+                "share": 8
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://www.arweave.net/W8daq3RctpUEiMzhr6pphepC1Z_dJy0xUPmQFrn6biY?ext=png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
